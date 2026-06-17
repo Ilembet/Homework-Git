@@ -17,3 +17,5 @@ check_status
 echo "Done!"
 # Added new feature
 New feature implemented!
+# Added error handling
+Error handling added
