@@ -15,3 +15,5 @@ echo "Current directory: $(pwd)"
 
 check_status
 echo "Done!"
+# Added new feature
+New feature implemented!
